@@ -8,6 +8,7 @@ public class JenkinsDemoApplication {
 
 	public static void main(String[] args) {
 		System.out.println("from main springboot class");
+		System.out.println("second committ class");
 		SpringApplication.run(JenkinsDemoApplication.class, args);
 	}
 

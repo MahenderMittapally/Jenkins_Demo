@@ -10,7 +10,7 @@ public class JenkinsDemoApplication {
 		System.out.println("from main springboot class");
 		System.out.println("second committ class");
 		System.out.println("third committ class");
-		System.out.println("Fifth committ ");
+		System.out.println("sixth committ ")
 		SpringApplication.run(JenkinsDemoApplication.class, args);
 	}
 
